@@ -1,5 +1,5 @@
 # PYTHON
-#### EDA of COVID-19 Data using Python.
+#### EDA of Sales Data using Python.
 
 1.Used PANDAS and NUMPY for performing EDA.
 
